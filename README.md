@@ -1,7 +1,8 @@
 <div align="center">
   
-  ![logo do projeto](https://github.com/melpalhano/QRCode/blob/main/src/assets/qrcode.png)
-   
+
+<img src="https://github.com/melpalhano/QRCode/blob/main/src/assets/qrcode.png" alt="qr-code" style="width:150px;"/>
+
   <p>QR Code Generator</p>
 
 </div>
